@@ -4,3 +4,9 @@
   background-size: cover;
   width: 37.5vw;
 }
+
+.sidebar__board {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
