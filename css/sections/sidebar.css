@@ -12,6 +12,8 @@
   display: flex;
   font-size: 6rem;
   justify-content: center;
+  margin-top: 20vh;
+  padding: 20px 0;
 }
 
 .sidebar__board img {
