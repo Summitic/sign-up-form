@@ -1,0 +1,22 @@
+:root {
+  --primary-color: #f9fafb;
+  --secondary-color: #596d48;
+
+  --error: #ff0000;
+  --sucess: #008000;
+
+  --text-color: #000;
+  --normal-weight: 400;
+  --bold-weight: 700;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: initial;
+}
