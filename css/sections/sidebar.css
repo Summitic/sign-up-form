@@ -10,5 +10,6 @@
   background-color: #00000075;
   color: #fff;
   display: flex;
+  font-size: 6rem;
   justify-content: center;
 }
