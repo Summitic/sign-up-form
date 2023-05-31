@@ -22,3 +22,7 @@
 .sidebar__board img {
   height: 7.8rem;
 }
+
+.sidebar__credit {
+  color: white;
+}
