@@ -1,4 +1,5 @@
 /* css file imports */
+@import url(./sections/sidebar.css);
 
 :root {
   --primary-color: #f9fafb;
