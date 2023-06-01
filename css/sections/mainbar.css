@@ -3,3 +3,7 @@
   background: var(--primary-color);
   padding: 15vh 5vh;
 }
+
+.mainbar__subtitle {
+  padding: 2.5vh 0 7vh;
+}
