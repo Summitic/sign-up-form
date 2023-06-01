@@ -26,8 +26,9 @@
 .sidebar__credit {
   color: white;
   display: flex;
+  font-size: 0.9rem;
   justify-content: center;
-  margin-bottom: 1.25vh;
+  margin-bottom: 1.5vh;
 }
 
 .sidebar__credit a {
