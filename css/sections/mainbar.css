@@ -1,9 +1,16 @@
 .mainbar {
   width: 62.5vw;
   background: var(--primary-color);
-  padding: 15vh 5vh;
+}
+
+.mainbar__paragraph {
+  padding: 15.5vh 5vh 0;
 }
 
 .mainbar__subtitle {
   padding: 2.5vh 0 7vh;
+}
+
+.mainbar__low {
+  padding: 5vh 5vh 0;
 }
