@@ -22,6 +22,9 @@
 .sidebar__board img {
   height: 7.8rem;
 }
+.sidebar__board p {
+  font-family: norse-bold;
+}
 
 .sidebar__credit {
   color: white;
