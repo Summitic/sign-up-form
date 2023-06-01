@@ -25,6 +25,11 @@ body {
   height: 100vh;
 }
 
+@font-face {
+  font-family: norse-bold;
+  src: url(../assets/fonts/Norse-Bold.otf);
+}
+
 a {
   text-decoration: none;
   color: initial;
