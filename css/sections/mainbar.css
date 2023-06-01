@@ -1,0 +1,5 @@
+.mainbar {
+  width: 62.5vw;
+  background: var(--primary-color);
+  padding: 15vh 5vh;
+}
