@@ -34,6 +34,10 @@
   width: 12vw;
 }
 
+.form__input:nth-child(even) {
+  margin-right: 10vh;
+}
+
 .mainbar__low {
   padding: 5vh 5vh 0;
 }
