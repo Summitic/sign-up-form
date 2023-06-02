@@ -16,6 +16,24 @@
   padding: 3vh 5vh;
 }
 
+.form__field--container {
+  display: flex;
+  margin: 3vh 0;
+}
+
+.form__field--container:last-child {
+  margin: 0;
+}
+
+.form__label {
+  display: flex;
+}
+
+.form__input {
+  height: 3vh;
+  width: 12vw;
+}
+
 .mainbar__low {
   padding: 5vh 5vh 0;
 }
