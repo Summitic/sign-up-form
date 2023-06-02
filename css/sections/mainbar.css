@@ -28,6 +28,7 @@
 
 .form__label {
   display: flex;
+  letter-spacing: 0.1rem;
 }
 
 .form__input {
